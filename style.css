@@ -1,0 +1,24 @@
+body
+{
+    background-image: url("https://i.pinimg.com/originals/81/d3/6f/81d36fb05994148a3e3305d6331892a8.jpg"); 
+    background-position: center; 
+    background-size: cover;}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
